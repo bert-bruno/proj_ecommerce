@@ -5,5 +5,3 @@ select t1.product_id,
 from tb_products as t1
 
 where (volume_cm3 > 5000)
-
--- 19407 produtos
